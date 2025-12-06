@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 👋 Hi, I’m Ananya<br>
-👀 Coding Enthusiast<br>  
+👀 Coding Enthusiast<br>
 🌱 Exploring AI/ML, Data Science, and Scalable App Development<br> 
 🚀 Building real-world projects with modern tech stacks<br>
 
